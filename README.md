@@ -14,7 +14,7 @@ git clone https://github.com/adityamali/Swiggy-Dataset-Exploration.git swiggy-ds
 ```
 - Install the requirements
 ```bash
-pip install requirements.txt
+pip install requirements_predictor.txt
 ```
 - Run the following commands
 ```bash
